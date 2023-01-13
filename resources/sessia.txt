@@ -1,0 +1,20 @@
+<question>Just sample question1
+<variant>var1
+<variant>var2
+<variant>var3
+<variant>var4
+<variant>var5
+
+<question>Just sample question2
+<variant>var1
+<variant>var2
+<variant>var3
+<variant>var4
+<variant>var5
+
+<question>Just sample question3
+<variant>var1
+<variant>var2
+<variant>var3
+<variant>var4
+<variant>var5
